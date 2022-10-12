@@ -20,7 +20,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=algolia&show_icons=true)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi)](https://github.com/anuraghazra/github-readme-stats)
 
