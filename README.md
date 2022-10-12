@@ -24,7 +24,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/fr"><img src="https://api.daily.dev/devcards/0cb73d3837c248e98311513f98d5a157.png?r=srt" width="400" alt="Md. Fazle Rabbi's Dev Card"/></a>
+<a style="position:fixed; float:right;" href="https://app.daily.dev/fr"><img src="https://github.com/fr/fr/blob/main/devcard.svg" width="200" alt="Md. Fazle Rabbi's Dev Card"/></a>
 
 <!--
 **fruzelee/fruzelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
