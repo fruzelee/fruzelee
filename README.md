@@ -26,6 +26,11 @@
 
 <a style="position:fixed; float:right;" href="https://app.daily.dev/fr"><img src="https://github.com/fruzelee/fruzelee/blob/main/devcard.svg" width="400" alt="Md. Fazle Rabbi's Dev Card"/></a>
 
+<p align="center"> 
+  Visitor count<br>
+     ![visitors](https://visitor-badge.glitch.me/badge?page_id=fruzelee.fruzelee&left_color=green&right_color=red)
+</p>
+
 <!--
 **fruzelee/fruzelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
