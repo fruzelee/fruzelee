@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ***Java, Kotlin and Android***
 
-- 📫 Reach me at ***to.fazle.rabbi@gmail.com***
+- 📫 Reach me at ***fazle.rabbi.cse@gmail.com***
 
 - 📄 Checkout my [portfolio](https://fr.crevado.com)
 
