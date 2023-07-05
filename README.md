@@ -28,14 +28,60 @@
 
 <div align="center">
 
-![Kotlin](https://user-images.githubusercontent.com/13250644/187092187-4b6488f3-7044-48db-bcfb-9dc4a3c77e64.svg)
-![Jetpack Compose](https://i.postimg.cc/52j4jg5P/jetpack-compose-icon-RGB.png)
-![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+## Technologies and Tools
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
+  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="50" height="50" />
+</p>
+
+---
+
+<div align="center">
+
+## Libraries and Frameworks
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://developer.android.com/images/brand/Android_Jetpack_Logo_Large.png" alt="Android Jetpack" width="150" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/retrofit/retrofit-original.svg" alt="Retrofit" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/okhttp/okhttp-original.svg" alt="OkHttp" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/glide/glide-original.svg" alt="Glide" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/room/room-original.svg" alt="Room Persistence Library" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dagger/dagger-original.svg" alt="Dagger" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robolectric/robolectric-original.svg" alt="Robolectric" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="50" height="50" />
+</p>
+
+---
+
+<div align="center">
+
+## IDEs and Editors
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg" alt="Android Studio" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" />
+</p>
+
 
 ---
 
