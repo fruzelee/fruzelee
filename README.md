@@ -4,38 +4,65 @@
 
 [//]: # (### Hi there 👋)
 
-<h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
-<h3 align="center">A passionate Software Engineer and native Android Developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working at [Walton Group](https://www.waltonbd.com)
+# Hi, I'm Fazle Rabbi 👋
+## A passionate Software Engineer and native Android Developer
 
-- 👯 I’m looking to collaborate on ***Android projects***
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fazle%20Rabbi-blue)](https://www.linkedin.com/in/fazle-rabbi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fazle.rabbi.com-brightgreen)](https://fazle.rabbi.com)
 
-- 💬 Ask me about ***Java, Kotlin and Android***
+</div>
 
-- 📫 Reach me at ***fazle.rabbi.cse@gmail.com***
+---
 
-- 📄 Checkout my [portfolio](https://fr.crevado.com)
+🔭 I’m currently working at [Walton Group](https://www.waltonbd.com)
 
-<h3 align="left">Languages and Tools:</h3>
+👯 I’m looking to collaborate on **Android projects**
 
-| Kotlin                                                                                                           | Jetpack Compose                                                                | Android                                                                                                           | Java                                                                                            | Firebase                                                                  | Git                                                                |
-|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------|
-| ![Kotlin](https://user-images.githubusercontent.com/13250644/187092187-4b6488f3-7044-48db-bcfb-9dc4a3c77e64.svg) | ![Jetpack Compose](https://i.postimg.cc/52j4jg5P/jetpack-compose-icon-RGB.png) | ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
+💬 Ask me about **Java, Kotlin, and Android**
 
+📫 Reach me at **fazle.rabbi.cse@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=algolia&show_icons=true)
+---
 
-[![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
+<div align="center">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi)](https://github.com/anuraghazra/github-readme-stats)
+![Kotlin](https://user-images.githubusercontent.com/13250644/187092187-4b6488f3-7044-48db-bcfb-9dc4a3c77e64.svg)
+![Jetpack Compose](https://i.postimg.cc/52j4jg5P/jetpack-compose-icon-RGB.png)
+![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
-<a style="position:fixed; float:right;" href="https://app.daily.dev/fr"><img src="https://github.com/fruzelee/fruzelee/blob/main/devcard.svg" width="400" alt="Md. Fazle Rabbi's Dev Card"/></a>
+</div>
 
-<p align="center">
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/fruzelee/count.svg" />
-</p>
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=algolia&show_icons=true)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Dev Card](https://github.com/fruzelee/fruzelee/blob/main/devcard.svg)](https://app.daily.dev/fr)
+
+</div>
+
+---
+
+<div align="center">
+
+Visitor count:
+![Visitor Count](https://profile-counter.glitch.me/fruzelee/count.svg)
+
+</div>
 
 <!--
 **fruzelee/fruzelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
