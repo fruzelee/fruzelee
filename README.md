@@ -17,9 +17,41 @@
 
 - 📄 Checkout my [portfolio](https://fr.crevado.com)
 
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/13250644/187092187-4b6488f3-7044-48db-bcfb-9dc4a3c77e64.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+<p align="left"> 
+
+[//]: # (kotlin)
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/13250644/187092187-4b6488f3-7044-48db-bcfb-9dc4a3c77e64.svg" alt="kotlin" width="40" height="40"/> 
+</a> 
+
+[//]: # (jetpack compose)
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
+<img src="https://i.postimg.cc/52j4jg5P/jetpack-compose-icon-RGB.png" alt="Jetpack Compose" width="40" height="40"/> 
+</a> 
+
+[//]: # (android)
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+</a> 
+
+[//]: # (java)
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+
+[//]: # (firebase)
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+</a> 
+
+[//]: # (git)
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+</p>
 
 
 [![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
