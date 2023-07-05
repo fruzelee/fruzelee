@@ -9,8 +9,8 @@
 # Hi, I'm Fazle Rabbi 👋
 ## A passionate Software Engineer and native Android Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fazle%20Rabbi-blue)](https://www.linkedin.com/in/fazle-rabbi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fazle.rabbi.com-brightgreen)](https://fazle.rabbi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fazle%20Rabbe-blue)](https://www.linkedin.com/in/fazlerabbe/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fr.crevado.com-brightgreen)](https://fr.crevado.com)
 
 </div>
 
