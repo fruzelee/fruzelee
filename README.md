@@ -24,9 +24,9 @@
 | ![Kotlin](https://user-images.githubusercontent.com/13250644/187092187-4b6488f3-7044-48db-bcfb-9dc4a3c77e64.svg) | ![Jetpack Compose](https://i.postimg.cc/52j4jg5P/jetpack-compose-icon-RGB.png) | ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
 
 
-[![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=algolia&show_icons=true)
+
+[![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi)](https://github.com/anuraghazra/github-readme-stats)
 
