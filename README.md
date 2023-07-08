@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" alt="Android Jetpack" width="150" height="50" />
+  <img src="https://www.pngfind.com/pngs/m/46-460868_google-i-o-android-jetpack-icon-hd-png.png" alt="Android Jetpack" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/retrofit/retrofit-original.svg" alt="Retrofit" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/okhttp/okhttp-original.svg" alt="OkHttp" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/glide/glide-original.svg" alt="Glide" width="50" height="50" />
