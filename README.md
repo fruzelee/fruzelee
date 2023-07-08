@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="Android Jetpack" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/retrofit/retrofit-original.svg" alt="Retrofit" width="50" height="50" />
+  <img src="https://avatars.githubusercontent.com/u/82592?s=48&v=4" alt="Retrofit" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/okhttp/okhttp-original.svg" alt="OkHttp" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/glide/glide-original.svg" alt="Glide" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/room/room-original.svg" alt="Room Persistence Library" width="50" height="50" />
