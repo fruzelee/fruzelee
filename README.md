@@ -7,6 +7,7 @@
 <div align="center">
 
 # Hi, I'm Fazle Rabbi 👋
+
 ## A passionate Software Engineer and native Android Developer
 
 [![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
@@ -61,8 +62,13 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="Android Jetpack" width="50" height="50" />
+  <span title="Retrofit">
   <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="Retrofit" width="50" height="50" />
+</span>
+
+<span title="OkHttp">
   <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="OkHttp" width="50" height="50" />
+</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/glide/glide-original.svg" alt="Glide" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/room/room-original.svg" alt="Room Persistence Library" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dagger/dagger-original.svg" alt="Dagger" width="50" height="50" />
