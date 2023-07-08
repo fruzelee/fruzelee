@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
-  <img src="https://cdn.fs.teachablecdn.com/66M5Z3DbSYSEXIe2m0ZF" alt="Jetpack Compose" width="50" height="50" />
+  <img src="https://user-images.githubusercontent.com/29164777/237387926-45819230-d60c-4e40-bc83-a702efb903d3.png" alt="Jetpack Compose" width="50" height="50" />
   <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
