@@ -60,22 +60,20 @@
 
 ---
 
-<p align="center">
-  <span title="Android Jetpack">
-    <img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="Android Jetpack" width="50" height="50" />
-  </span>
-  <span title="Retrofit">Retrofit</span>
-  <br>
-  <span title="OkHttp">OkHttp</span>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/glide/glide-original.svg" alt="Glide" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/room/room-original.svg" alt="Room Persistence Library" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dagger/dagger-original.svg" alt="Dagger" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robolectric/robolectric-original.svg" alt="Robolectric" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="50" height="50" />
-</p>
+| Library/Framework        | Icon                                                                                                                                                        |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Android Jetpack          | <img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="Android Jetpack" width="50" height="50" />                                        |
+| Retrofit                 | <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="Retrofit" width="50" height="50" />                                                 |
+| OkHttp                   | <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="OkHttp" width="50" height="50" />                                                   |
+| Glide                    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/glide/glide-original.svg" alt="Glide" width="50" height="50" />                   |
+| Room Persistence Library | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/room/room-original.svg" alt="Room Persistence Library" width="50" height="50" />  |
+| Dagger                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dagger/dagger-original.svg" alt="Dagger" width="50" height="50" />                |
+| Robolectric              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robolectric/robolectric-original.svg" alt="Robolectric" width="50" height="50" /> |
+| JUnit                    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="50" height="50" />                   |
 
 ---
+
+
 
 <div align="center">
 
