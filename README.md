@@ -86,7 +86,7 @@
 
 ---
 
-<div align="center" style="background-color: black; color: white;">
+<div align="center" style="background-color: black; color: white; max-width: 100%;">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=dark&show_icons=true)
 
