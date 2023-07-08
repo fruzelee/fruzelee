@@ -34,15 +34,19 @@
 
 ---
 
-- Kotlin
-- Jetpack Compose
-- Android
-- JetBrains
-- Firebase
-- Git
-- Docker
-- Jenkins
-- AWS
+- **Programming Languages:** Kotlin, Java
+- **Android Development:** Android SDK, Jetpack Compose, Android Architecture Components
+- **UI/UX:** XML, ConstraintLayout, Material Design
+- **Version Control:** Git, GitHub
+- **Build Tools:** Gradle
+- **Database:** SQLite, Room Persistence Library
+- **Networking:** Retrofit, OkHttp
+- **Dependency Injection:** Dagger
+- **Image Loading:** Glide, Picasso
+- **Testing:** JUnit, Espresso
+- **Continuous Integration:** Jenkins, GitHub Actions
+- **Cloud Services:** Firebase, Amazon Web Services (AWS)
+- **Containerization:** Docker
 
 ---
 
@@ -54,14 +58,14 @@
 
 ---
 
-- Android Jetpack
-- Retrofit
-- OkHttp
-- Glide
-- Room Persistence Library
-- Dagger
-- Robolectric
-- JUnit
+- **Android Jetpack:** Navigation, ViewModel, LiveData, Data Binding
+- **Dependency Injection:** Dagger, Hilt
+- **Networking:** Retrofit, OkHttp
+- **Image Loading:** Glide, Coil
+- **Database:** Room Persistence Library
+- **Reactive Programming:** RxJava, Coroutines
+- **Unit Testing:** JUnit, Mockito, Robolectric
+- **UI Testing:** Espresso
 
 ---
 
