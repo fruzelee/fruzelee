@@ -28,6 +28,8 @@
 
 📫 Reach me at **fazle.rabbi.cse@gmail.com**
 
+🌍 Open for Remote Jobs: Yes
+
 ---
 
 <div align="center">
