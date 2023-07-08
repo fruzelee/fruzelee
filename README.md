@@ -61,19 +61,13 @@
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="Android Jetpack" width="50" height="50" />
-  <span title="Retrofit">
-  <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="Retrofit" width="50" height="50" />
+  <span title="Android Jetpack">
+    <img src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" alt="Android Jetpack" width="50" height="50" />
+  </span>
+  <span title="Retrofit">Retrofit</span>
   <br>
-  Retrofit
-</span>
-
-<span title="OkHttp">
-  <img src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="OkHttp" width="50" height="50" />
+  <span title="OkHttp">OkHttp</span>
   <br>
-  OkHttp
-</span>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/glide/glide-original.svg" alt="Glide" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/room/room-original.svg" alt="Room Persistence Library" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dagger/dagger-original.svg" alt="Dagger" width="50" height="50" />
