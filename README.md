@@ -12,7 +12,8 @@
 [![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fazle%20Rabbe-blue)](https://www.linkedin.com/in/fazlerabbe/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-fr.crevado.com-brightgreen)](https://fr.crevado.com)
-[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/fruzelee)
+[![twitter](https://img.shields.io/twitter/follow/fruzelee?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/fruzelee)
+[![github](https://img.shields.io/github/followers/fruzelee?logo=github&style=plastic)](https://github.com/fruzelee?tab=followers)
 
 </div>
 
