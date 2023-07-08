@@ -88,7 +88,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=algolia&show_icons=true)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi&bg_color=000000&text_color=ffffff)
 
 </div>
 
