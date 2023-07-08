@@ -9,6 +9,7 @@
 # Hi, I'm Fazle Rabbi 👋
 ## A passionate Software Engineer and native Android Developer
 
+[![wakatime](https://wakatime.com/badge/user/00ee8e94-a8a0-403f-9e7a-6c099ffac609.svg)](https://wakatime.com/@00ee8e94-a8a0-403f-9e7a-6c099ffac609)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fazle%20Rabbe-blue)](https://www.linkedin.com/in/fazlerabbe/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-fr.crevado.com-brightgreen)](https://fr.crevado.com)
 
