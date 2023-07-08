@@ -1,6 +1,6 @@
 <div align="center" style="background-color: black; color: white; max-width: 100%;">
 
-# Hi, I'm <span style="color: #00FF00">Fazle Rabbi</span> 👋
+# Hi, I'm Fazle Rabbi 👋
 
 ## A passionate Software Engineer and native Android Developer
 
@@ -22,7 +22,7 @@
 
 📫 Reach me at **fazle.rabbi.cse@gmail.com**
 
-🌍 Open for Remote Jobs: <span style="animation: glowing-text 2s infinite; color: #00FF00;">Yes</span>
+🌍 Open for Remote Jobs: Yes
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-- <span style="color: #00FF00">Kotlin</span>
+- Kotlin
 - Jetpack Compose
 - Android
 - JetBrains
