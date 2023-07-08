@@ -1,12 +1,6 @@
-<!--
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=fruzelee.fruzelee&left_color=green&right_color=red)
--->
+<div align="center" style="background-color: black; color: white; max-width: 100%;">
 
-[//]: # (### Hi there 👋)
-
-<div align="center">
-
-# Hi, I'm Fazle Rabbi 👋
+# Hi, I'm <span style="color: #00FF00">Fazle Rabbi</span> 👋
 
 ## A passionate Software Engineer and native Android Developer
 
@@ -28,7 +22,7 @@
 
 📫 Reach me at **fazle.rabbi.cse@gmail.com**
 
-🌍 Open for Remote Jobs: Yes
+🌍 Open for Remote Jobs: <span style="animation: glowing-text 2s infinite; color: #00FF00;">Yes</span>
 
 ---
 
@@ -40,17 +34,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
-  <img src="https://user-images.githubusercontent.com/29164777/237387926-45819230-d60c-4e40-bc83-a702efb903d3.png" alt="Jetpack Compose" width="50" height="50" />
-  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" />
-</p>
+- <span style="color: #00FF00">Kotlin</span>
+- Jetpack Compose
+- Android
+- JetBrains
+- Firebase
+- Git
+- Docker
+- Jenkins
+- AWS
 
 ---
 
@@ -62,12 +54,16 @@
 
 ---
 
-<p align="center">
-  Android Jetpack &bull; Retrofit &bull; OkHttp &bull; Glide &bull; Room Persistence Library &bull; Dagger &bull; Robolectric &bull; JUnit
-</p>
+- Android Jetpack
+- Retrofit
+- OkHttp
+- Glide
+- Room Persistence Library
+- Dagger
+- Robolectric
+- JUnit
 
 ---
-
 
 <div align="center">
 
@@ -77,12 +73,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg" alt="Android Studio" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" />
-</p>
-
+- Android Studio
+- IntelliJ IDEA
+- Visual Studio Code
 
 ---
 
@@ -110,18 +103,3 @@ Visitor count:
 ![Visitor Count](https://profile-counter.glitch.me/fruzelee/count.svg)
 
 </div>
-
-<!--
-**fruzelee/fruzelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on https://waltonbd.com
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
