@@ -85,7 +85,7 @@
 
 <div align="center" style="background-color: black; color: white; max-width: 100%;">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&theme=dark&show_icons=true)
+![FR's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&show_icons=true&theme=radical)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi&theme=dark)
 
