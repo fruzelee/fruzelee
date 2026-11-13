@@ -2,14 +2,11 @@
 
 ![MD Fazle Rabbi — Senior Mobile App Developer](banner.png)
 
-# MD FAZLE RABBI
-
 **Senior Mobile App Developer** · Android · Kotlin · Jetpack Compose · Flutter · iOS · Kotlin Multiplatform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Fazle%20Rabbi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fr19/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-fr.crevado.com-2FB6A8?style=flat&logo=googlechrome&logoColor=white)](https://fr.crevado.com)
 [![Email](https://img.shields.io/badge/Email-fazle.rabbi.cse@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fazle.rabbi.cse@gmail.com)
-[![Followers](https://img.shields.io/github/followers/fruzelee?style=flat&logo=github&label=Followers)](https://github.com/fruzelee?tab=followers)
 
 </div>
 
@@ -77,23 +74,12 @@ I work end to end — architecture, pixel-perfect UI, API integration, testing, 
 
 ## Open source
 
-<div align="center">
-
-[![Android Clean Architecture Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=Android-Clean-Architecture-MVVM-Jetpack-Boilerplate&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/Android-Clean-Architecture-MVVM-Jetpack-Boilerplate)
-[![Compose Image Sliders](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=compose-image-sliders&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/compose-image-sliders)
-[![Google News Kt](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=Google-News-Kt&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/Google-News-Kt)
-[![My Wallet](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=my-wallet&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/my-wallet)
-
-</div>
-
----
-
-<div align="center">
-
-![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fruzelee&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-</div>
+| Repository | What it is | Stack |
+|---|---|---|
+| [Android Clean Architecture Boilerplate](https://github.com/fruzelee/Android-Clean-Architecture-MVVM-Jetpack-Boilerplate) | Android starter with Clean Architecture and MVVM | Kotlin · Compose · Hilt |
+| [Compose Image Sliders](https://github.com/fruzelee/compose-image-sliders) | Reusable image slider components for Compose | Kotlin · Jetpack Compose |
+| [Google News Kt](https://github.com/fruzelee/Google-News-Kt) | Sample news app using the News API | Kotlin · MVVM · Room · Retrofit · Dagger 2 |
+| [My Wallet](https://github.com/fruzelee/my-wallet) | Android wallet app | Kotlin |
 
 ---
 
