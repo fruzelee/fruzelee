@@ -5,7 +5,7 @@
 **Senior Mobile App Developer** · Android · Kotlin · Jetpack Compose · Flutter · iOS · Kotlin Multiplatform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Fazle%20Rabbi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fr19/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fr.crevado.com-2FB6A8?style=flat&logo=googlechrome&logoColor=white)](https://fr.crevado.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fruzelee.github.io-2FB6A8?style=flat&logo=googlechrome&logoColor=white)](https://fruzelee.github.io/)
 [![Email](https://img.shields.io/badge/Email-fazle.rabbi.cse@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fazle.rabbi.cse@gmail.com)
 
 </div>
@@ -87,6 +87,6 @@ I work end to end — architecture, pixel-perfect UI, API integration, testing, 
 
 **Let's build something serious for mobile.**
 
-[LinkedIn](https://www.linkedin.com/in/fr19/) · [Portfolio](https://fr.crevado.com) · [fazle.rabbi.cse@gmail.com](mailto:fazle.rabbi.cse@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fr19/) · [Portfolio](https://fruzelee.github.io/) · [fazle.rabbi.cse@gmail.com](mailto:fazle.rabbi.cse@gmail.com)
 
 </div>
