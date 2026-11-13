@@ -1,97 +1,88 @@
-<div align="center" style="background-color: black; color: white; max-width: 100%;">
+<div align="center">
 
-# Hi, I'm Fazle Rabbi 👋
+![MD Fazle Rabbi — Senior Mobile App Developer](banner.png)
 
-## A passionate Software Engineer and native Android Developer
+# MD FAZLE RABBI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fazle%20Rabbe-blue)](https://www.linkedin.com/in/fazlerabbe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fr.crevado.com-brightgreen)](https://fr.crevado.com)
-[![github](https://img.shields.io/github/followers/fruzelee?logo=github&style=plastic)](https://github.com/fruzelee?tab=followers)
+**Senior Mobile App Developer** · Android · Kotlin · Jetpack Compose · Flutter · iOS · Kotlin Multiplatform
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Fazle%20Rabbi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fr19/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fr.crevado.com-2FB6A8?style=flat&logo=googlechrome&logoColor=white)](https://fr.crevado.com)
+[![Email](https://img.shields.io/badge/Email-fazle.rabbi.cse@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fazle.rabbi.cse@gmail.com)
+[![Followers](https://img.shields.io/github/followers/fruzelee?style=flat&logo=github&label=Followers)](https://github.com/fruzelee?tab=followers)
 
 </div>
 
 ---
 
-👯 I’m looking to collaborate on **Android projects**
+Senior mobile engineer with **10+ years** of experience building and shipping Android, Flutter and iOS applications for fintech, retail, e-commerce and enterprise clients in Bangladesh.
 
-💬 Ask me about **Java, Kotlin, and Android**
+I work end to end — architecture, pixel-perfect UI, API integration, testing, release and post-release support — with a focus on maintainable, modular code, app performance and lifecycle.
 
-📫 Reach me at **fazle.rabbi.cse@gmail.com**
-
-🌍 Open for Remote Jobs: Yes
+- 💼 **Senior Additional Director, ICT (Lead Mobile Engineer)** at **Walton Group**, Dhaka
+- 📱 Shipped **Walton Plaza POS**, **DataDash**, **My Parking**, **Shubidha** and **Bismi Live**
+- 🧩 Currently exploring **Kotlin Multiplatform**, **Compose Multiplatform** and **Rust** on mobile
+- 🤝 I enjoy mentoring engineers, reviewing code and raising the bar on quality
 
 ---
+
+## Tech stack
+
+**Mobile**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**Architecture & libraries**
+
+![MVVM](https://img.shields.io/badge/MVVM-1F6FEB?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1F6FEB?style=flat)
+![Hilt](https://img.shields.io/badge/Hilt-34A853?style=flat)
+![Coroutines](https://img.shields.io/badge/Coroutines%20%2F%20Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollographql&logoColor=white)
+![Room](https://img.shields.io/badge/Room-34A853?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Backend & tooling**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=black)
+
+---
+
+## Featured projects
+
+| Project | What it is | Stack | Link |
+|---|---|---|---|
+| **Walton Plaza POS** | Enterprise POS and field-operations app for collections, payments, targets and training | Kotlin · Compose · Hilt · GraphQL | [Google Play](https://play.google.com/store/apps/details?id=com.waltonbd.pos) |
+| **DataDash** | Data-collection app with surveys, media uploads and GPS-based tasks | Kotlin · MVVM · Retrofit · Room | [Google Play](https://play.google.com/store/apps/details?id=com.clementinedatabd.datadashapp) |
+| **My Parking** | Cross-platform parking marketplace built in Flutter | Flutter · Dart | [Details](https://www.annanovas.com/portfolio/17/my-parking) |
+| **Shubidha** | Retail and bulk payments app for Android and iOS | Java · Swift | [Details](https://www.annanovas.com/portfolio/18/shubidha) |
+| **Bismi Live** | Android live-streaming app with a Rust + PostgreSQL backend | Kotlin · Rust · PostgreSQL | [Live](https://live.bismify.com) |
+| **Bengal Meat ERP** | Sales-and-distribution ERP client for order capture, tracking and reporting | Android | [Details](https://www.annanovas.com/portfolio/4/bengal-meat-erp) |
+
+---
+
+## Open source
 
 <div align="center">
 
-## Technologies and Tools
-
-</div>
-
----
-
-- **Programming Languages:** Kotlin, Java
-- **Android Development:** Android SDK, Jetpack Compose, Android Architecture Components
-- **UI/UX:** XML, ConstraintLayout, Material Design
-- **Version Control:** Git, GitHub
-- **Build Tools:** Gradle
-- **Database:** SQLite, Room Persistence Library
-- **Networking:** Retrofit, OkHttp
-- **Dependency Injection:** Dagger
-- **Image Loading:** Glide, Picasso
-- **Testing:** JUnit, Espresso
-- **Continuous Integration:** Jenkins, GitHub Actions
-- **Cloud Services:** Firebase, Amazon Web Services (AWS)
-- **Containerization:** Docker
-
----
-
-<div align="center">
-
-## Libraries and Frameworks
-
-</div>
-
----
-
-- **Android Jetpack:** Navigation, ViewModel, LiveData, Data Binding
-- **Dependency Injection:** Dagger, Hilt
-- **Networking:** Retrofit, OkHttp
-- **Image Loading:** Glide, Coil
-- **Database:** Room Persistence Library
-- **Reactive Programming:** RxJava, Coroutines
-- **Unit Testing:** JUnit, Mockito, Robolectric
-- **UI Testing:** Espresso
-
----
-
-<div align="center">
-
-## IDEs and Editors
-
-</div>
-
----
-
-- Android Studio
-- IntelliJ IDEA
-- Visual Studio Code
-
----
-
-<div align="center" style="background-color: black; color: white; max-width: 100%;">
-
-[//]: # (![FR's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=fruzelee&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered&#41;)
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fazlerabbi&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-[![Dev Card](https://github.com/fruzelee/fruzelee/blob/main/devcard.svg)](https://app.daily.dev/fr)
+[![Android Clean Architecture Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=Android-Clean-Architecture-MVVM-Jetpack-Boilerplate&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/Android-Clean-Architecture-MVVM-Jetpack-Boilerplate)
+[![Compose Image Sliders](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=compose-image-sliders&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/compose-image-sliders)
+[![Google News Kt](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=Google-News-Kt&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/Google-News-Kt)
+[![My Wallet](https://github-readme-stats.vercel.app/api/pin/?username=fruzelee&repo=my-wallet&theme=tokyonight&hide_border=true)](https://github.com/fruzelee/my-wallet)
 
 </div>
 
@@ -99,7 +90,17 @@
 
 <div align="center">
 
-Visitor count:
-![Visitor Count](https://profile-counter.glitch.me/fruzelee/count.svg)
+![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fruzelee&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fruzelee&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something serious for mobile.**
+
+[LinkedIn](https://www.linkedin.com/in/fr19/) · [Portfolio](https://fr.crevado.com) · [fazle.rabbi.cse@gmail.com](mailto:fazle.rabbi.cse@gmail.com)
 
 </div>
